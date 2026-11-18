@@ -1,0 +1,2 @@
+# AbstractFactory
+Patron de création
